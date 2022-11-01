@@ -29,6 +29,7 @@
 * `ctrl + 1-9` : Cambiar Editor
 * `ctrl + W` : Cerrar Archivo Abierto
 * `ctrl + Ñ` : Abrir terminal
+* `ctrl + "+"` : Zoom group
 
 ## Editor Code
 
